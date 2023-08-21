@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Crypto project</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav>
+      <ul class="nav">
+        <li class="item">Sender</li>
+        <li class="item">Receiver</li>
+      </ul>
+    </nav>
+
+    <img src="./img.jpg" alt="img" class="kaliImg" />
+
+    <h2 class="sender">Sender</h2>
+    <div class="container">
+      <form action="#" class="form">
+        <div class="msgs__container">
+          <div class="msg__container">
+            <p>Crime Data</p>
+            <input
+              type="text"
+              class="message data"
+              placeholder="Enter the text you want to Encrypt"
+            />
+          </div>
+
+          <div class="msg__container">
+            <p>Key</p>
+            <input
+              type="text"
+              placeholder="Enter the Key to encrypt the data"
+            />
+          </div>
+
+          <div class="msg__container">
+            <p>n</p>
+            <input type="text" placeholder="Enter the value of n" />
+          </div>
+
+          <div class="msg__container">
+            <p>e</p>
+            <input type="text" placeholder="Enter the value of e" />
+          </div>
+
+          <button>Send</button>
+        </div>
+      </form>
+    </div>
+
+    <div class="receiver container">
+      <h2 class="sender">Receiver</h2>
+
+      <form action="#" class="form">
+        <div class="msgs__container">
+          <button>Generate Key</button>
+        </div>
+        <button class="decrypt">Decrypt</button>
+      </form>
+    </div>
+
+    <span class="footer">Copyright © Crypto Project 2021</span>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
