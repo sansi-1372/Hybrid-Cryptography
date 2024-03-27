@@ -35,9 +35,3 @@
 
 In summary, hybrid cryptography leverages the security of asymmetric encryption and the efficiency of symmetric encryption, creating a robust and versatile cryptographic system. 🛡️🔐
 
-![Hybrid Cryptography](https://bing.com/th?id=OIP.okhvq5B9otH23kcLOusJSQHaEv)
-![Hybrid Cryptography](https://bing.com/th?id=OIP.5gnNeLeJi2929inyRfwHZgHaEU)
-![Hybrid Cryptography](https://bing.com/th?id=OIP.Swb-BZASLhjDGFgddBjLPQHaEq)
-![Hybrid Cryptography](https://bing.com/th?id=OIP.vbHUFS5hn1RKfYwNSncdQgAAAA)
-![Hybrid Cryptography](https://bing.com/th?id=OIP.CF_tzXUZ8FVT6qETvcGgpQHaE8)
-![Hybrid Cryptography](https://bing.com/th?id=OIP.CJj2J-uW_VlGFYKxRuPoEQHaFH)
